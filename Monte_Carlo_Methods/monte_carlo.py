@@ -41,9 +41,9 @@ def PI_Approx(N):
             plt.savefig('MC_circle_N-%s.jpg' %i, bbox_inches ='tight', dpi = 300)
 
     
-    PI_approx = pd.DataFrame(PI_approx, columns = ['Estimated PI'])
-    PI_approx['real PI'] = np.pi
-    PI_approx['Error'] = np.pi - PI_approx['Estimated PI']
+    PI_approx = pd.DataFrame(PI_approx, columns = ['Estimated_PI'])
+    PI_approx['real_PI'] = np.pi
+    PI_approx['Error'] = np.pi - PI_approx['Estimated_PI']
 
 
     #print(inside)
@@ -55,4 +55,17 @@ def PI_Approx(N):
 df_PI = PI_Approx(10000)
 print(df_PI)
 
+plt.figure()
+df_PI[['Estimated_PI', 'real_PI']].plot(logx = True)
+plt.xlabel('N iterations', fontsize = fontsize)
+plt.ylabel(r'$ \pi_{est} $', fontsize=fontsize)
+plt.savefig('real_vs_estimated_pi.jpg', bbox_inches = 'tight', dpi = 300)
+
+plt.figure()
+df_PI['N_scaling'] = 1/np.sqrt(df_PI.index.values)
+df_PI['Error'].abs().plot(logy = True, logx = True)
+plt.text(1000, 0.2, r'$ \propto \frac{1}{\sqrt{N}}$', fontsize = fontsize)
+plt.ylabel('error', fontsize=fontsize)
+plt.xlabel('N iterations', fontsize  = fontsize)
+plt.savefig('real_vs_estimated_p_Scaling.jpg', bbox_inches = 'tight', dpi = 300)
 
