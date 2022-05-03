@@ -1,0 +1,4 @@
+Words like "a" and "the" are called stop---words.
+Sometimes this can be written as stop-words or stopwords.
+Each stop word can be filtered from the text to be processed.
+spaCy holds a built-in list of some 305 English stop--words.

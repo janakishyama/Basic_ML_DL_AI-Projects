@@ -1,0 +1,449 @@
+sales_enquiry_id,Product,Seller,Authority,Comp_size,Competitors,Purch_dept,Partnership,Budgt_alloc,Forml_tend,RFI,RFP,Growth,Posit_statm,Source,Client,Scope,Strat_deal,Cross_sale,Up_sale,Deal_type,Needs_def,Att_t_client,Status
+id-1001,Product A,Seller 6,Mid,Mid,No,Unknown,No,Yes,No,Yes,Yes,Growth,Neutral,Referral,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1002,Product B,Seller 8,Mid,Big,No,Yes,No,Unknown,No,No,Yes,Stable,Yes,Referral,Current,Clear,Unimportant,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1003,Product F,Seller 1,Mid,Big,No,No,Yes,No,No,No,Yes,Stable,Yes,Joint past,Current,Few questions,Average important,Yes,No,Project,Info gathering,Strategic account,Won
+id-1004,Product B,Seller 8,Mid,Big,No,Yes,No,No,No,No,No,Growth,Yes,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1005,Product C,Seller 1,Mid,Small,Unknown,No,No,No,No,No,No,Stable,Neutral,Unknown,New,Few questions,Average important,No,No,Project,No,Normal,Won
+id-1006,Product B,Seller 20,Mid,Big,Unknown,Unknown,No,No,No,No,No,Growth,Yes,Referral,New,Clear,Very important,No,No,Project,Yes,First deal,Lost
+id-1007,Product B,Seller 1,Mid,Mid,Yes,Unknown,Yes,Unknown,No,No,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Project,Yes,First deal,Won
+id-1008,Product I,Seller 1,Mid,Small,No,No,No,No,No,No,Yes,Growth,Yes,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1009,Product D,Seller 2,Low,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1010,Product C,Seller 12,Mid,Big,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1011,Product E,Seller 1,Mid,Small,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1012,Product B,Seller 1,High,Small,Unknown,No,No,Yes,No,Yes,Yes,Stable,Neutral,Event,New,Clear,Average important,No,No,Project,Yes,First deal,Won
+id-1013,Product A,Seller 4,High,Big,No,No,No,Yes,Yes,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1014,Product A,Seller 4,High,Big,No,No,No,Yes,Yes,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1015,Product D,Seller 2,Mid,Big,Yes,Unknown,No,Yes,No,No,Yes,Stable,Neutral,Online form,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1016,Product B,Seller 8,Mid,Big,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Unimportant,No,Yes,Project,Yes,Strategic account,Won
+id-1017,Product D,Seller 10,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1018,Product C,Seller 1,Mid,Mid,No,Unknown,No,Yes,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1019,Product D,Seller 2,Mid,Big,Yes,Unknown,No,Unknown,No,No,Yes,Unknown,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1020,Product C,Seller 9,Mid,Mid,No,Unknown,No,Unknown,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1021,Product N,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1022,Product D,Seller 2,Low,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1023,Product C,Seller 10,Mid,Mid,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1024,Product F,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Normal,Won
+id-1025,Product D,Seller 2,Low,Big,No,Unknown,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1026,Product B,Seller 1,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1027,Product B,Seller 1,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1028,Product B,Seller 8,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Very important,Yes,Yes,Project,Yes,Strategic account,Won
+id-1029,Product C,Seller 1,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Growth,Neutral,Referral,New,Few questions,Very important,No,No,Project,Info gathering,First deal,Lost
+id-1030,Product D,Seller 2,Low,Mid,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1031,Product D,Seller 2,Low,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1032,Product D,Seller 2,High,Mid,Yes,Unknown,No,Yes,No,Yes,Yes,Growth,Neutral,Direct mail,New,Clear,Unimportant,No,No,Solution,Yes,First deal,Lost
+id-1033,Product D,Seller 2,Mid,Mid,Yes,Unknown,No,Yes,No,Yes,No,Stable,Neutral,Direct mail,New,Few questions,Unimportant,No,No,Solution,Yes,First deal,Lost
+id-1034,Product F,Seller 9,Mid,Mid,Yes,No,No,Yes,No,No,No,Stable,Yes,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1035,Product D,Seller 2,High,Big,Yes,Unknown,No,Yes,No,Yes,Yes,Growth,Neutral,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1036,Product D,Seller 2,Mid,Big,Yes,Unknown,No,Unknown,No,No,Yes,Stable,Neutral,Direct mail,New,Clear,Unimportant,No,No,Solution,Yes,First deal,Lost
+id-1037,Product D,Seller 16,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1038,Product D,Seller 2,Low,Mid,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1039,Product D,Seller 1,Mid,Big,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Solution,Yes,Strategic account,Lost
+id-1040,Product F,Seller 1,Mid,Mid,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1041,Product B,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Normal,Lost
+id-1042,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1043,Product A,Seller 4,Mid,Big,Yes,No,No,Yes,Yes,No,Yes,Stable,Neutral,Media,New,Clear,Very important,No,No,Project,Yes,First deal,Lost
+id-1044,Product B,Seller 8,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1045,Product D,Seller 1,Mid,Big,No,Yes,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1046,Product N,Seller 1,High,Mid,No,No,No,No,No,No,No,Growth,No,Joint past,Current,Clear,Unimportant,No,Yes,Project,Yes,Bad client,Won
+id-1047,Product A,Seller 1,High,Small,No,No,No,No,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1048,Product I,Seller 1,Mid,Small,No,No,No,No,No,Yes,Yes,Growth,Neutral,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Normal,Won
+id-1049,Product F,Seller 1,Mid,Big,No,No,No,No,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Lost
+id-1050,Product C,Seller 9,Mid,Small,Unknown,No,No,No,No,No,No,Stable,Neutral,Joint past,New,Clear,Unimportant,No,No,Project,Yes,First deal,Lost
+id-1051,Product D,Seller 10,Mid,Big,No,Yes,No,No,No,No,No,Stable,No,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1052,Product A,Seller 11,Mid,Mid,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Media,New,Clear,Very important,No,No,Project,Yes,Strategic account,Lost
+id-1053,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Low,Very important,No,Yes,Project,No,Strategic account,Won
+id-1054,Product D,Seller 2,Mid,Mid,Yes,Unknown,No,Yes,No,Yes,Yes,Stable,Neutral,Online form,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1055,Product C,Seller 12,High,Big,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1056,Product F,Seller 1,Mid,Big,Yes,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1057,Product A,Seller 1,High,Small,No,No,No,No,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1058,Product B,Seller 1,Mid,Mid,Yes,No,No,Unknown,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,First deal,Lost
+id-1059,Product C,Seller 1,Mid,Small,No,No,No,No,No,Yes,Yes,Growth,Yes,Media,New,Few questions,Very important,No,No,Solution,Yes,Normal,Won
+id-1060,Product B,Seller 1,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1061,Product B,Seller 1,Mid,Big,No,No,No,Yes,No,No,No,Stable,Yes,Joint past,Current,Low,Very important,No,Yes,Maintenance,No,Strategic account,Won
+id-1062,Product D,Seller 2,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Unknown,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1063,Product B,Seller 1,Mid,Big,No,Yes,No,Yes,No,No,No,Growth,Yes,Joint past,Current,Low,Very important,No,Yes,Maintenance,No,Strategic account,Won
+id-1064,Product B,Seller 1,Mid,Big,Yes,No,Yes,No,No,No,Yes,Growth,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1065,Product D,Seller 2,Mid,Big,Unknown,Unknown,No,Yes,No,Yes,Yes,Growth,Neutral,Joint past,Current,Few questions,Average important,No,Yes,Project,Info gathering,Normal,Lost
+id-1066,Product B,Seller 9,Mid,Mid,No,No,No,No,No,No,No,Stable,Neutral,Unknown,New,Low,Average important,No,No,Solution,No,Normal,Lost
+id-1067,Product D,Seller 10,Mid,Big,No,No,Yes,No,No,No,No,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1068,Product C,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Event,New,Clear,Average important,No,No,Project,Yes,First deal,Won
+id-1069,Product P,Seller 13,High,Big,No,No,No,Yes,No,No,No,Growth,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1070,Product D,Seller 10,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1071,Product A,Seller 14,Mid,Big,Yes,No,No,Yes,No,Yes,No,Growth,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1072,Product B,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Strategic account,Lost
+id-1073,Product B,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Consulting,Yes,Strategic account,Lost
+id-1074,Product K,Seller 9,High,Mid,Yes,No,No,Yes,Yes,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1075,Product C,Seller 14,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Consulting,Yes,Normal,Won
+id-1076,Product I,Seller 1,Mid,Big,No,Yes,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1077,Product D,Seller 2,Mid,Small,Unknown,No,No,Unknown,No,Yes,Yes,Unknown,Neutral,Unknown,New,Few questions,Unimportant,No,No,Solution,No,Normal,Lost
+id-1078,Product D,Seller 2,Mid,Small,Unknown,No,No,Unknown,No,Yes,Yes,Unknown,Neutral,Unknown,New,Few questions,Unimportant,No,No,Solution,No,Normal,Lost
+id-1079,Product B,Seller 9,Mid,Mid,Yes,No,No,Yes,Yes,No,Yes,Stable,Neutral,Unknown,New,Clear,Very important,No,No,Project,Yes,Normal,Lost
+id-1080,Product E,Seller 1,Mid,Small,No,No,No,No,No,Yes,Yes,Growth,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,First deal,Lost
+id-1081,Product A,Seller 1,Mid,Big,Yes,No,No,Unknown,No,No,Yes,Stable,Neutral,Joint past,New,Few questions,Very important,No,No,Project,Yes,Bad client,Lost
+id-1082,Product B,Seller 1,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1083,Product D,Seller 2,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1084,Product B,Seller 9,Low,Small,Unknown,No,No,Yes,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1085,Product A,Seller 3,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Few questions,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1086,Product D,Seller 10,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1087,Product A,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Normal,Won
+id-1088,Product D,Seller 10,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1089,Product C,Seller 14,High,Big,No,No,No,No,No,No,No,Growth,Yes,Joint past,Current,Clear,Average important,No,Yes,Consulting,No,Strategic account,Won
+id-1090,Product C,Seller 14,Mid,Big,No,Yes,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1091,Product C,Seller 14,Mid,Big,No,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1092,Product A,Seller 3,Mid,Big,Yes,No,No,Unknown,No,Yes,No,Stable,Neutral,Referral,Past,Low,Average important,No,No,Project,Poor,Normal,Lost
+id-1093,Product N,Seller 1,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1094,Product F,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1095,Product B,Seller 1,Mid,Mid,No,Yes,Yes,Yes,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1096,Product I,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1097,Product B,Seller 1,Mid,Small,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1098,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1099,Product A,Seller 1,Mid,Small,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1100,Product D,Seller 1,Mid,Mid,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1101,Product B,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1102,Product B,Seller 8,Mid,Big,No,No,No,No,No,No,No,Growth,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1103,Product B,Seller 9,Mid,Small,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Unimportant,No,No,Project,Yes,Normal,Lost
+id-1104,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1105,Product F,Seller 4,Mid,Big,No,No,Yes,Yes,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1106,Product B,Seller 1,Mid,Mid,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1107,Product B,Seller 8,Mid,Big,No,Yes,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Lost
+id-1108,Product B,Seller 8,Mid,Big,Yes,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1109,Product A,Seller 4,High,Big,No,No,No,Yes,Yes,No,No,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1110,Product A,Seller 3,High,Big,No,No,No,Yes,Yes,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1111,Product A,Seller 3,High,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1112,Product A,Seller 6,Mid,Mid,No,Yes,Yes,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1113,Product A,Seller 3,Mid,Big,No,No,No,Yes,No,No,No,Stable,Yes,Joint past,Current,Few questions,Very important,No,Yes,Maintenance,Info gathering,Strategic account,Won
+id-1114,Product D,Seller 2,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1115,Product D,Seller 2,Mid,Big,Yes,Unknown,No,No,No,Yes,Yes,Stable,Yes,Joint past,New,Clear,Very important,Yes,No,Solution,Yes,First deal,Lost
+id-1116,Product C,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1117,Product D,Seller 2,Mid,Small,Yes,No,No,Unknown,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1118,Product D,Seller 2,Mid,Small,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1119,Product C,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1120,Product D,Seller 2,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1121,Product B,Seller 1,Mid,Big,No,No,No,No,No,No,Yes,Growth,Yes,Joint past,Current,Clear,Very important,No,Yes,Solution,Yes,Strategic account,Won
+id-1122,Product B,Seller 1,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1123,Product B,Seller 1,Mid,Big,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Normal,Lost
+id-1124,Product A,Seller 5,Mid,Small,No,No,No,No,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1125,Product B,Seller 9,Mid,Mid,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Yes,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1126,Product B,Seller 11,Low,Big,Yes,Yes,No,Yes,Yes,Yes,Yes,Unknown,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1127,Product A,Seller 11,Mid,Mid,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Lost
+id-1128,Product I,Seller 1,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Yes,Joint past,New,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1129,Product A,Seller 1,Mid,Big,No,Yes,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1130,Product D,Seller 2,High,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Strategic account,Lost
+id-1131,Product A,Seller 5,Mid,Small,No,No,No,No,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1132,Product A,Seller 9,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Yes,Joint past,New,Clear,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1133,Product A,Seller 6,Mid,Mid,No,No,No,Yes,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1134,Product A,Seller 6,Mid,Mid,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1135,Product A,Seller 1,Mid,Mid,No,No,No,No,No,No,Yes,Growth,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1136,Product D,Seller 2,Mid,Big,Yes,Unknown,No,Yes,No,Yes,Yes,Stable,Yes,Direct mail,New,Few questions,Average important,No,No,Solution,Info gathering,First deal,Lost
+id-1137,Product A,Seller 14,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1138,Product D,Seller 2,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1139,Product D,Seller 2,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1140,Product I,Seller 1,Mid,Big,Yes,Yes,No,Yes,Yes,Yes,Yes,Growth,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1141,Product D,Seller 2,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1142,Product D,Seller 2,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1143,Product H,Seller 9,High,Small,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1144,Product D,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Solution,Yes,Strategic account,Won
+id-1145,Product D,Seller 2,Mid,Mid,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1146,Product C,Seller 1,Mid,Big,No,No,No,No,No,No,No,Stable,Yes,Joint past,Current,Low,Very important,Yes,No,Project,No,Strategic account,Lost
+id-1147,Product B,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1148,Product E,Seller 1,Mid,Big,Yes,No,No,Yes,No,No,No,Stable,Neutral,Joint past,Current,Low,Average important,Yes,No,Project,No,Strategic account,Lost
+id-1149,Product B,Seller 9,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1150,Product B,Seller 9,Mid,Mid,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1151,Product K,Seller 9,Mid,Big,Yes,Yes,No,Unknown,Yes,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,Yes,No,Solution,Yes,Normal,Lost
+id-1152,Product D,Seller 2,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Unimportant,No,Yes,Solution,Yes,Normal,Lost
+id-1153,Product D,Seller 2,High,Small,Yes,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1154,Product D,Seller 2,Mid,Big,Yes,Yes,No,No,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1155,Product D,Seller 2,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1156,Product A,Seller 9,Mid,Mid,No,Yes,No,Yes,No,No,Yes,Growth,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1157,Product C,Seller 14,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1158,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1159,Product D,Seller 2,Mid,Mid,Unknown,No,No,Unknown,Yes,No,No,Unknown,Neutral,Media,New,Low,Average important,No,No,Solution,No,Normal,Lost
+id-1160,Product D,Seller 2,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Lost
+id-1161,Product B,Seller 9,High,Big,Yes,No,No,No,No,No,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1162,Product N,Seller 9,Mid,Small,Yes,No,No,No,No,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1163,Product D,Seller 2,Mid,Mid,Yes,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Won
+id-1164,Product D,Seller 1,Mid,Big,No,Yes,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1165,Product F,Seller 1,Mid,Big,No,Yes,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Normal,Won
+id-1166,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1167,Product B,Seller 9,High,Small,Yes,No,No,No,No,No,Yes,Stable,Neutral,Media,New,Clear,Unimportant,No,No,Project,Yes,Normal,Lost
+id-1168,Product B,Seller 1,Mid,Big,No,Yes,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1169,Product B,Seller 1,Mid,Mid,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,Yes,Project,Yes,Normal,Lost
+id-1170,Product G,Seller 1,Mid,Big,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Project,Yes,Strategic account,Lost
+id-1171,Product B,Seller 1,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Normal,Won
+id-1172,Product D,Seller 2,High,Mid,Yes,Unknown,No,Yes,No,Yes,Yes,Growth,Neutral,Direct mail,New,Clear,Unimportant,No,No,Solution,Yes,First deal,Lost
+id-1173,Product D,Seller 10,Mid,Big,Yes,Yes,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1174,Product C,Seller 9,Mid,Small,Yes,No,No,No,No,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1175,Product B,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,New,Clear,Unimportant,No,No,Project,Yes,Normal,Lost
+id-1176,Product D,Seller 9,Mid,Big,No,Yes,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Strategic account,Won
+id-1177,Product A,Seller 3,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1178,Product F,Seller 4,Mid,Mid,Unknown,No,Yes,Unknown,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1179,Product F,Seller 1,Mid,Mid,No,No,No,No,No,Yes,No,Stable,Neutral,Joint past,Current,Low,Average important,Yes,No,Project,Yes,Normal,Lost
+id-1180,Product F,Seller 9,Mid,Big,Yes,Yes,No,Yes,Yes,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1181,Product J,Seller 1,Mid,Big,Yes,No,No,Yes,No,Yes,Yes,Stable,Yes,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1182,Product I,Seller 1,Mid,Big,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1183,Product A,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Strategic account,Won
+id-1184,Product D,Seller 2,Mid,Mid,Yes,No,Yes,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1185,Product A,Seller 14,Mid,Big,Yes,No,No,Yes,Yes,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1186,Product D,Seller 2,Mid,Mid,Yes,No,No,No,No,Yes,Yes,Slow down,Neutral,Referral,New,Clear,Unimportant,No,No,Solution,Yes,Normal,Lost
+id-1187,Product J,Seller 9,Mid,Small,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1188,Product D,Seller 2,Mid,Small,Yes,No,Yes,Unknown,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1189,Product B,Seller 9,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1190,Product B,Seller 9,Mid,Small,Yes,No,No,Yes,No,No,No,Stable,Neutral,Joint past,Current,Low,Average important,No,No,Project,No,Normal,Lost
+id-1191,Product E,Seller 9,Mid,Mid,Yes,No,No,No,No,No,No,Stable,Neutral,Joint past,New,Low,Unimportant,No,No,Project,No,Normal,Lost
+id-1192,Product D,Seller 2,Low,Mid,Yes,Unknown,No,Unknown,No,No,Yes,Unknown,Neutral,Online form,New,Few questions,Unimportant,No,No,Solution,Info gathering,First deal,Lost
+id-1193,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1194,Product D,Seller 2,Mid,Big,No,Yes,Yes,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1195,Product B,Seller 9,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1196,Product D,Seller 1,Mid,Big,Yes,No,No,Yes,Yes,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Very important,No,No,Solution,Yes,Strategic account,Lost
+id-1197,Product D,Seller 2,Mid,Big,Yes,Unknown,No,Yes,Yes,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1198,Product D,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Solution,Yes,Strategic account,Lost
+id-1199,Product D,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Strategic account,Won
+id-1200,Product D,Seller 1,Mid,Small,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1201,Product B,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1202,Product D,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1203,Product B,Seller 9,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1204,Product B,Seller 9,Mid,Mid,Yes,Yes,Yes,Yes,Yes,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1205,Product N,Seller 9,High,Small,Yes,No,No,Yes,No,No,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1206,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1207,Product D,Seller 2,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1208,Product C,Seller 1,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1209,Product B,Seller 1,Mid,Mid,No,No,Yes,No,No,No,No,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1210,Product D,Seller 10,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1211,Product B,Seller 8,Mid,Big,Yes,Yes,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1212,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1213,Product B,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1214,Product B,Seller 1,Mid,Big,Yes,No,No,No,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1215,Product B,Seller 1,Mid,Big,Yes,No,No,No,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1216,Product A,Seller 11,Mid,Mid,Yes,Yes,No,Yes,Yes,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Lost
+id-1217,Product A,Seller 3,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1218,Product D,Seller 2,Mid,Mid,Yes,Yes,Yes,Yes,Yes,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1219,Product G,Seller 1,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1220,Product B,Seller 1,Mid,Big,Yes,No,No,No,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1221,Product B,Seller 1,Mid,Small,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1222,Product A,Seller 3,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1223,Product D,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1224,Product C,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1225,Product D,Seller 2,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1226,Product B,Seller 1,Mid,Big,Yes,Yes,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1227,Product B,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1228,Product D,Seller 1,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1229,Product N,Seller 9,Mid,Small,Yes,No,No,Yes,No,No,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1230,Product A,Seller 1,Mid,Mid,No,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1231,Product A,Seller 1,Mid,Mid,No,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1232,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1233,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1234,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1235,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1236,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1237,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1238,Product L,Seller 9,Mid,Mid,No,No,No,No,No,Yes,No,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1239,Product B,Seller 1,Mid,Small,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1240,Product E,Seller 9,Mid,Small,No,No,No,No,No,Yes,Yes,Stable,Neutral,Referral,New,Low,Average important,No,No,Project,No,Normal,Lost
+id-1241,Product B,Seller 9,Mid,Small,Yes,No,No,No,No,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1242,Product D,Seller 1,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1243,Product A,Seller 9,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1244,Product J,Seller 1,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1245,Product A,Seller 1,Mid,Mid,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Project,Yes,Strategic account,Lost
+id-1246,Product A,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1247,Product B,Seller 9,Mid,Small,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1248,Product E,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1249,Product B,Seller 9,Mid,Mid,Yes,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1250,Product F,Seller 1,Mid,Big,No,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1251,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1252,Product B,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1253,Product B,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Consulting,Yes,Strategic account,Won
+id-1254,Product B,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1255,Product J,Seller 9,Mid,Mid,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1256,Product H,Seller 1,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1257,Product H,Seller 1,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1258,Product D,Seller 1,Mid,Big,Yes,Yes,No,Yes,Yes,No,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Solution,Yes,Normal,Lost
+id-1259,Product D,Seller 9,Mid,Big,No,Yes,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1260,Product D,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1261,Product D,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1262,Product E,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Normal,Won
+id-1263,Product D,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1264,Product H,Seller 9,Mid,Big,Yes,Yes,No,Yes,Yes,Yes,No,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1265,Product H,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1266,Product H,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1267,Product H,Seller 1,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1268,Product A,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1269,Product H,Seller 9,Mid,Small,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1270,Product E,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1271,Product G,Seller 7,Mid,Big,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Project,Yes,Strategic account,Lost
+id-1272,Product H,Seller 1,Mid,Mid,No,Yes,Yes,Yes,No,No,Yes,Stable,Neutral,Referral,Current,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1273,Product D,Seller 10,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1274,Product H,Seller 1,Mid,Big,No,Yes,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1275,Product H,Seller 1,Mid,Big,No,Yes,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1276,Product H,Seller 1,Mid,Big,No,Yes,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1277,Product F,Seller 4,Mid,Big,Unknown,No,Yes,Unknown,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1278,Product H,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1279,Product N,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Lost
+id-1280,Product D,Seller 9,Mid,Big,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,Yes,No,Solution,Yes,Normal,Lost
+id-1281,Product B,Seller 9,Mid,Mid,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1282,Product H,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1283,Product F,Seller 4,Mid,Mid,No,Yes,Yes,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1284,Product F,Seller 4,Mid,Mid,No,Yes,Yes,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1285,Product F,Seller 4,Mid,Mid,No,Yes,Yes,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1286,Product H,Seller 9,Mid,Mid,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1287,Product H,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Strategic account,Won
+id-1288,Product H,Seller 4,Mid,Big,No,No,Yes,Yes,Yes,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1289,Product B,Seller 1,Mid,Mid,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1290,Product B,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1291,Product D,Seller 2,Mid,Mid,Yes,Unknown,No,Yes,No,Yes,Yes,Unknown,Neutral,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1292,Product H,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Project,Yes,Strategic account,Lost
+id-1293,Product D,Seller 2,Mid,Mid,Yes,Unknown,No,Unknown,No,Yes,Yes,Unknown,Neutral,Direct mail,New,Clear,Unimportant,No,No,Solution,Yes,First deal,Lost
+id-1294,Product C,Seller 9,Mid,Mid,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Consulting,Yes,Normal,Lost
+id-1295,Product D,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1296,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1297,Product D,Seller 2,Low,Mid,No,Yes,No,Yes,No,Yes,Yes,Unknown,No,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1298,Product C,Seller 9,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Won
+id-1299,Product C,Seller 9,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1300,Product D,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1301,Product A,Seller 9,Mid,Mid,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1302,Product B,Seller 1,Mid,Big,No,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1303,Product E,Seller 9,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1304,Product D,Seller 2,Low,Mid,No,Yes,No,Yes,No,Yes,Yes,Unknown,No,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1305,Product B,Seller 15,Mid,Big,Yes,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Project,Info gathering,First deal,Lost
+id-1306,Product A,Seller 3,High,Big,Yes,Yes,No,No,No,No,No,Stable,Yes,Joint past,Current,Low,Very important,Yes,No,Project,No,Strategic account,Lost
+id-1307,Product A,Seller 1,Mid,Big,No,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1308,Product D,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Strategic account,Won
+id-1309,Product F,Seller 1,Mid,Big,No,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1310,Product D,Seller 9,Mid,Big,Yes,Yes,No,Yes,Yes,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1311,Product B,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1312,Product H,Seller 3,High,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1313,Product C,Seller 9,Mid,Mid,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Won
+id-1314,Product C,Seller 9,Mid,Big,Yes,No,No,Unknown,Yes,No,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1315,Product D,Seller 2,Low,Mid,No,Yes,No,Yes,No,Yes,Yes,Unknown,No,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1316,Product H,Seller 3,High,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1317,Product D,Seller 2,Low,Mid,Unknown,No,No,No,No,Yes,Yes,Unknown,Neutral,Direct mail,New,Clear,Unimportant,No,No,Solution,Yes,First deal,Lost
+id-1318,Product B,Seller 9,Mid,Mid,Yes,No,No,Unknown,No,No,Yes,Stable,Neutral,Media,New,Few questions,Unimportant,No,No,Project,Yes,Normal,Lost
+id-1319,Product D,Seller 1,Mid,Small,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1320,Product D,Seller 1,Mid,Small,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1321,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1322,Product B,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Unimportant,No,Yes,Project,Yes,Normal,Lost
+id-1323,Product D,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1324,Product D,Seller 2,High,Mid,Yes,Yes,No,Yes,No,Yes,Yes,Growth,Neutral,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1325,Product B,Seller 1,Mid,Small,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1326,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1327,Product A,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Normal,Lost
+id-1328,Product B,Seller 1,Mid,Big,No,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1329,Product C,Seller 1,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1330,Product F,Seller 7,Mid,Big,No,No,Yes,No,No,No,No,Stable,Neutral,Joint past,New,Low,Average important,No,No,Project,No,First deal,Won
+id-1331,Product F,Seller 4,Mid,Big,No,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1332,Product B,Seller 9,Mid,Mid,Yes,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,New,Few questions,Average important,No,No,Project,Yes,Normal,Lost
+id-1333,Product A,Seller 3,Mid,Big,No,No,No,No,No,Yes,No,Stable,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1334,Product C,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1335,Product C,Seller 7,Mid,Big,Yes,No,Yes,Yes,Yes,No,Yes,Stable,Neutral,Other,New,Few questions,Average important,No,No,Project,Info gathering,Normal,Lost
+id-1336,Product D,Seller 1,Mid,Big,Yes,No,No,Yes,Yes,Yes,Yes,Stable,Neutral,Media,New,Clear,Very important,No,No,Solution,Yes,First deal,Lost
+id-1337,Product D,Seller 9,Mid,Mid,Yes,No,No,Yes,Yes,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1338,Product D,Seller 9,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1339,Product D,Seller 9,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1340,Product D,Seller 2,Low,Small,Unknown,Unknown,No,Unknown,No,Yes,Yes,Unknown,Neutral,Referral,New,Few questions,Unimportant,No,No,Solution,Yes,First deal,Lost
+id-1341,Product A,Seller 9,Mid,Mid,No,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Lost
+id-1342,Product B,Seller 9,Mid,Big,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,Neutral,Other,New,Clear,Very important,No,No,Project,Yes,Strategic account,Won
+id-1343,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1344,Product D,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1345,Product D,Seller 9,Mid,Mid,No,No,No,Yes,Yes,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1346,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1347,Product A,Seller 1,Mid,Big,No,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1348,Product B,Seller 9,Mid,Big,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1349,Product B,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1350,Product B,Seller 1,Mid,Small,No,No,No,No,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,First deal,Lost
+id-1351,Product D,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1352,Product H,Seller 3,High,Big,No,No,No,Unknown,No,No,Yes,Growth,Yes,Joint past,New,Few questions,Average important,No,No,Consulting,Yes,Normal,Lost
+id-1353,Product B,Seller 9,Mid,Big,No,No,No,Yes,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1354,Product B,Seller 9,Mid,Mid,Unknown,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Unimportant,Yes,No,Project,Yes,Normal,Lost
+id-1355,Product D,Seller 2,Low,Mid,Yes,Unknown,No,Unknown,No,Yes,Yes,Unknown,Neutral,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1356,Product D,Seller 1,Mid,Small,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1357,Product B,Seller 9,Mid,Mid,No,No,No,Unknown,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1358,Product D,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1359,Product B,Seller 9,Mid,Big,No,No,No,No,No,Yes,No,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1360,Product B,Seller 1,Mid,Big,No,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1361,Product A,Seller 9,Mid,Mid,No,No,No,Yes,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Won
+id-1362,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1363,Product H,Seller 3,High,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1364,Product D,Seller 9,Mid,Mid,Yes,No,No,Yes,Yes,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1365,Product C,Seller 9,Mid,Mid,Unknown,No,No,Yes,No,No,Yes,Stable,Neutral,Unknown,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1366,Product F,Seller 4,Mid,Big,No,No,Yes,Yes,No,No,No,Stable,Yes,Joint past,New,Clear,Average important,No,No,Project,Yes,First deal,Won
+id-1367,Product C,Seller 1,Mid,Big,No,Yes,Yes,Yes,No,Yes,Yes,Growth,Yes,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Won
+id-1368,Product B,Seller 1,Mid,Big,Yes,No,Yes,Unknown,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1369,Product B,Seller 1,Mid,Big,Yes,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1370,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1371,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1372,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1373,Product B,Seller 1,Mid,Big,No,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Project,Yes,Strategic account,Won
+id-1374,Product A,Seller 1,Mid,Big,No,Yes,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1375,Product D,Seller 1,Mid,Big,No,No,No,Unknown,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1376,Product D,Seller 1,Mid,Big,No,No,No,Unknown,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1377,Product D,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1378,Product D,Seller 1,Mid,Big,No,No,No,Unknown,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1379,Product C,Seller 9,Mid,Small,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1380,Product D,Seller 9,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1381,Product A,Seller 9,Mid,Mid,No,No,No,Yes,No,Yes,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Normal,Lost
+id-1382,Product D,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1383,Product D,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Lost
+id-1384,Product D,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1385,Product D,Seller 2,High,Mid,Yes,Yes,No,Yes,Yes,Yes,Yes,Stable,No,Joint past,Past,Clear,Average important,No,Yes,Solution,Yes,First deal,Won
+id-1386,Product D,Seller 1,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1387,Product D,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1388,Product D,Seller 2,High,Mid,No,Yes,No,Yes,No,Yes,Yes,Growth,Neutral,Joint past,Past,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1389,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1390,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1391,Product D,Seller 1,Mid,Small,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1392,Product B,Seller 1,Mid,Big,No,No,Yes,Yes,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1393,Product B,Seller 9,Mid,Mid,Unknown,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Unimportant,Yes,No,Project,Yes,Normal,Won
+id-1394,Product D,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Won
+id-1395,Product D,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Strategic account,Won
+id-1396,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1397,Product B,Seller 9,Mid,Big,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1398,Product D,Seller 1,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1399,Product A,Seller 1,Mid,Big,No,No,Yes,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1400,Product E,Seller 9,High,Small,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Unknown,New,Clear,Average important,No,No,Project,Yes,Normal,Won
+id-1401,Product E,Seller 9,Mid,Mid,Yes,No,No,Yes,Yes,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1402,Product C,Seller 9,Mid,Mid,No,No,No,No,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1403,Product A,Seller 9,Mid,Mid,Unknown,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Unimportant,Yes,No,Project,Yes,Normal,Lost
+id-1404,Product A,Seller 17,Mid,Big,Yes,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Few questions,Average important,Yes,No,Project,Info gathering,Normal,Lost
+id-1405,Product B,Seller 1,Mid,Big,Yes,No,Yes,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1406,Product D,Seller 10,Mid,Mid,No,No,No,Yes,No,No,Yes,Slow down,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1407,Product D,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1408,Product D,Seller 9,Mid,Big,No,No,No,Yes,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Strategic account,Won
+id-1409,Product D,Seller 2,Mid,Mid,No,Unknown,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Past,Clear,Unimportant,No,Yes,Solution,Yes,Normal,Lost
+id-1410,Product D,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1411,Product D,Seller 1,Mid,Big,No,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1412,Product B,Seller 9,Mid,Big,No,No,No,No,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1413,Product B,Seller 14,Mid,Big,Yes,No,No,Yes,No,No,Yes,Stable,Neutral,Joint past,New,Low,Average important,No,No,Project,Info gathering,First deal,Lost
+id-1414,Product D,Seller 9,Mid,Mid,Yes,No,No,Yes,No,No,Yes,Stable,Neutral,Unknown,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1415,Product C,Seller 1,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Won
+id-1416,Product F,Seller 1,Mid,Big,Yes,No,No,Yes,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Very important,No,No,Project,Yes,Strategic account,Won
+id-1417,Product B,Seller 1,Mid,Big,Yes,No,No,Unknown,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1418,Product C,Seller 1,Mid,Mid,No,No,No,No,No,Yes,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1419,Product D,Seller 9,Mid,Mid,Yes,Yes,No,Yes,Yes,No,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Solution,Yes,Normal,Lost
+id-1420,Product B,Seller 9,Mid,Mid,Unknown,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Unimportant,Yes,No,Project,Yes,Normal,Won
+id-1421,Product B,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1422,Product B,Seller 3,Mid,Big,Yes,Unknown,No,Unknown,No,No,Yes,Stable,Yes,Joint past,Current,Clear,Average important,Yes,No,Project,Yes,Strategic account,Lost
+id-1423,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1424,Product D,Seller 9,Mid,Big,No,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1425,Product A,Seller 3,Mid,Big,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Few questions,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1426,Product A,Seller 3,Mid,Big,No,No,No,No,No,No,Yes,Stable,Yes,Joint past,Current,Few questions,Very important,Yes,No,Project,Yes,Strategic account,Lost
+id-1427,Product A,Seller 9,Mid,Mid,Unknown,No,No,Yes,No,No,Yes,Stable,Neutral,Referral,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1428,Product D,Seller 1,Mid,Big,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1429,Product D,Seller 1,Mid,Big,Yes,No,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Lost
+id-1430,Product N,Seller 9,Mid,Mid,Yes,No,No,Yes,No,No,Yes,Stable,Neutral,Media,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1431,Product E,Seller 9,High,Small,No,No,No,No,No,No,Yes,Stable,Neutral,Unknown,Current,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1432,Product D,Seller 1,Mid,Mid,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Maintenance,Yes,Normal,Won
+id-1433,Product B,Seller 9,Mid,Mid,Unknown,No,No,No,No,No,Yes,Stable,Neutral,Joint past,Current,Clear,Unimportant,Yes,No,Project,Yes,Normal,Won
+id-1434,Product D,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Maintenance,Yes,Strategic account,Lost
+id-1435,Product A,Seller 9,Mid,Big,No,No,No,Yes,No,No,No,Stable,Yes,Joint past,Current,Clear,Average important,No,Yes,Project,Yes,Strategic account,Lost
+id-1436,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Lost
+id-1437,Product D,Seller 1,Mid,Big,No,Yes,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1438,Product D,Seller 2,Mid,Big,Yes,Unknown,No,Yes,No,Yes,Yes,Stable,Yes,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1439,Product D,Seller 1,Mid,Small,No,Yes,No,No,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Average important,No,Yes,Solution,Yes,Normal,Won
+id-1440,Product C,Seller 9,Mid,Mid,No,No,No,Unknown,No,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1441,Product A,Seller 9,Mid,Mid,Yes,No,No,Yes,Yes,Yes,Yes,Stable,Neutral,Joint past,New,Clear,Average important,No,No,Project,Yes,Normal,Lost
+id-1442,Product A,Seller 1,Mid,Big,No,No,No,Yes,No,Yes,Yes,Stable,Neutral,Joint past,Current,Clear,Very important,No,Yes,Project,Yes,Strategic account,Won
+id-1443,Product D,Seller 2,Mid,Mid,Yes,Unknown,No,Unknown,No,Yes,Yes,Stable,Neutral,Referral,Current,Few questions,Very important,Yes,No,Solution,Info gathering,Strategic account,Lost
+id-1444,Product D,Seller 2,Low,Mid,Yes,Unknown,No,Unknown,No,Yes,Yes,Stable,Neutral,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1445,Product D,Seller 2,Mid,Mid,Yes,Unknown,No,Unknown,No,Yes,Yes,Growth,Neutral,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1446,Product D,Seller 2,Mid,Big,Yes,Unknown,No,Yes,Yes,Yes,Yes,Stable,Neutral,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1447,Product D,Seller 2,Mid,Mid,Yes,Unknown,No,Unknown,No,Yes,Yes,Growth,Neutral,Direct mail,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost
+id-1448,Product D,Seller 1,Low,Mid,Yes,Unknown,No,Unknown,No,Yes,Yes,Stable,Yes,Referral,New,Clear,Average important,No,No,Solution,Yes,First deal,Lost

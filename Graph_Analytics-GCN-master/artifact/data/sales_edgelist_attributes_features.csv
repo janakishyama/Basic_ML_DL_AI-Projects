@@ -1,0 +1,791 @@
+"_id","_labels","Att_t_client","Budgt_alloc","Client","Competitors","CrossSale","Deal_type","Forml_tend","Growth","Needs_def","Partnership","Posit_statm","Purch_dept","RFI","RFP","Scope","Source","Status","Strat_deal","Up_sale","authority","comp_size","name","product","seller","_start","_end","_type"
+"0",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","No","Clear","Joint past","Won","Average important","Yes","High","Small","id-1047","Product A","Seller 1",,,
+"1",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1442","Product A","Seller 1",,,
+"2",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1423","Product A","Seller 1",,,
+"3",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1399","Product A","Seller 1",,,
+"4",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Yes","Yes","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Mid","id-1112","Product A","Seller 6",,,
+"5",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Info gathering","No","Yes","No","No","No","Few questions","Joint past","Won","Very important","Yes","Mid","Big","id-1113","Product A","Seller 3",,,
+"6",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Very important","Yes","High","Big","id-1111","Product A","Seller 3",,,
+"7",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1177","Product A","Seller 3",,,
+"8",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1217","Product A","Seller 3",,,
+"9",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1362","Product A","Seller 1",,,
+"10",":Sale","Normal","No","New","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Won","Average important","No","Mid","Big","id-1087","Product A","Seller 9",,,
+"11",":Sale","Strategic account","Yes","Current","No","Yes","Project","No","Growth","Yes","No","Yes","Yes","No","Yes","Clear","Joint past","Won","Very important","No","Mid","Mid","id-1156","Product A","Seller 9",,,
+"12",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1246","Product A","Seller 9",,,
+"13",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1361","Product A","Seller 9",,,
+"14",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1268","Product A","Seller 9",,,
+"15",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","No","Clear","Joint past","Won","Average important","Yes","High","Small","id-1057","Product A","Seller 1",,,
+"16",":Sale","Normal","No","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1099","Product A","Seller 1",,,
+"17",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","Yes","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1129","Product A","Seller 1",,,
+"18",":Sale","Strategic account","No","Current","No","No","Project","No","Growth","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1135","Product A","Seller 1",,,
+"19",":Sale","Strategic account","No","Current","No","Yes","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","No","Mid","Big","id-1183","Product A","Seller 1",,,
+"20",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Mid","id-1230","Product A","Seller 1",,,
+"21",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","No","No","Yes","No","No","No","Low","Joint past","Won","Very important","Yes","Mid","Big","id-1061","Product B","Seller 1",,,
+"22",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Growth","No","No","Yes","Yes","No","No","Low","Joint past","Won","Very important","Yes","Mid","Big","id-1063","Product B","Seller 1",,,
+"23",":Sale","Strategic account","No","Current","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1026","Product B","Seller 1",,,
+"24",":Sale","Strategic account","No","Current","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1027","Product B","Seller 1",,,
+"25",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Yes","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1042","Product B","Seller 1",,,
+"26",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1082","Product B","Seller 1",,,
+"27",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Yes","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1095","Product B","Seller 1",,,
+"28",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1097","Product B","Seller 1",,,
+"29",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1101","Product B","Seller 1",,,
+"30",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1104","Product B","Seller 1",,,
+"31",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Yes","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1158","Product B","Seller 1",,,
+"32",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1201","Product B","Seller 1",,,
+"33",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1206","Product B","Seller 1",,,
+"34",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","No","No","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1209","Product B","Seller 1",,,
+"35",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1212","Product B","Seller 1",,,
+"36",":Sale","Strategic account","Yes","Current","No","Yes","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","No","Mid","Big","id-1213","Product B","Seller 1",,,
+"37",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1239","Product B","Seller 1",,,
+"38",":Sale","Normal","No","Current","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1289","Product B","Seller 1",,,
+"39",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1302","Product B","Seller 1",,,
+"40",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1321","Product B","Seller 1",,,
+"41",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1325","Product B","Seller 1",,,
+"42",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1326","Product B","Seller 1",,,
+"43",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1346","Product B","Seller 1",,,
+"44",":Sale","Strategic account","Yes","Current","No","Yes","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","No","Mid","Big","id-1349","Product B","Seller 1",,,
+"45",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1360","Product B","Seller 1",,,
+"46",":Sale","Normal","No","New","Unknown","No","Project","No","Stable","No","No","Neutral","No","No","No","Few questions","Unknown","Won","Average important","No","Mid","Small","id-1005","Product C","Seller 1",,,
+"47",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1010","Product C","Seller 12",,,
+"48",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","Unknown","No","No","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1018","Product C","Seller 1",,,
+"49",":Sale","Normal","Unknown","Current","No","No","Project","No","Stable","Yes","No","Yes","Unknown","No","No","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1020","Product C","Seller 9",,,
+"50",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1023","Product C","Seller 10",,,
+"51",":Sale","Normal","No","New","No","No","Consulting","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","No","Mid","Mid","id-1075","Product C","Seller 14",,,
+"52",":Sale","Strategic account","No","Current","No","No","Consulting","No","Growth","No","No","Yes","No","No","No","Clear","Joint past","Won","Average important","Yes","High","Big","id-1089","Product C","Seller 14",,,
+"53",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1090","Product C","Seller 14",,,
+"54",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","No","Mid","Mid","id-1298","Product C","Seller 9",,,
+"55",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","No","Mid","Mid","id-1313","Product C","Seller 9",,,
+"56",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1157","Product C","Seller 14",,,
+"57",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Big","id-1009","Product D","Seller 2",,,
+"58",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1011","Product E","Seller 1",,,
+"59",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1017","Product D","Seller 10",,,
+"60",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1372","Product A","Seller 1",,,
+"61",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1374","Product A","Seller 1",,,
+"62",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Yes","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1045","Product D","Seller 1",,,
+"63",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","No","Yes","No","No","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1051","Product D","Seller 10",,,
+"64",":Sale","Strategic account","Yes","Current","Yes","Yes","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","No","Mid","Big","id-1056","Product F","Seller 1",,,
+"65",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","Yes","Neutral","No","No","No","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1067","Product D","Seller 10",,,
+"66",":Sale","Normal","Yes","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1070","Product D","Seller 10",,,
+"67",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1086","Product D","Seller 10",,,
+"68",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1037","Product D","Seller 16",,,
+"69",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Mid","id-1038","Product D","Seller 2",,,
+"70",":Sale","Normal","Yes","New","No","No","Project","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","No","Mid","Mid","id-1040","Product F","Seller 1",,,
+"71",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1094","Product F","Seller 1",,,
+"72",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1100","Product D","Seller 1",,,
+"73",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","Yes","Yes","No","No","No","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1105","Product F","Seller 4",,,
+"74",":Sale","Normal","Yes","Current","No","Yes","Project","No","Stable","Yes","Yes","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","No","Mid","Big","id-1165","Product F","Seller 1",,,
+"75",":Sale","Normal","No","Current","Yes","No","Solution","No","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1173","Product D","Seller 10",,,
+"76",":Sale","Strategic account","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1176","Product D","Seller 9",,,
+"77",":Sale","Strategic account","Yes","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1199","Product D","Seller 9",,,
+"78",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1200","Product D","Seller 1",,,
+"79",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1250","Product F","Seller 1",,,
+"80",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1295","Product D","Seller 1",,,
+"81",":Sale","Normal","Yes","Current","No","No","Project","No","Unknown","Yes","No","No","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Mid","id-1297","Product D","Seller 2",,,
+"82",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1300","Product D","Seller 9",,,
+"83",":Sale","Normal","Yes","Current","No","No","Project","No","Unknown","Yes","No","No","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Mid","id-1304","Product D","Seller 2",,,
+"84",":Sale","First deal","Yes","Past","Yes","No","Solution","Yes","Stable","Yes","No","No","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","High","Mid","id-1385","Product D","Seller 2",,,
+"85",":Sale","Normal","No","Current","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1386","Product D","Seller 1",,,
+"86",":Sale","Strategic account","Yes","Current","No","No","Solution","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1395","Product D","Seller 9",,,
+"87",":Sale","Normal","No","Current","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1398","Product D","Seller 1",,,
+"88",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1394","Product D","Seller 1",,,
+"89",":Sale","Normal","Yes","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Unknown","Won","Average important","No","High","Small","id-1400","Product E","Seller 9",,,
+"90",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Slow down","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1406","Product D","Seller 10",,,
+"91",":Sale","Strategic account","Yes","Current","No","No","Solution","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1408","Product D","Seller 9",,,
+"92",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1410","Product D","Seller 1",,,
+"93",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1411","Product D","Seller 1",,,
+"94",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","High","Big","id-1055","Product C","Seller 12",,,
+"95",":Sale","Normal","No","New","No","No","Solution","No","Growth","Yes","No","Yes","No","Yes","Yes","Few questions","Media","Won","Very important","No","Mid","Small","id-1059","Product C","Seller 1",,,
+"96",":Sale","Bad client","Unknown","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Few questions","Joint past","Lost","Very important","No","Mid","Big","id-1081","Product A","Seller 1",,,
+"97",":Sale","First deal","No","New","Unknown","No","Project","No","Growth","Yes","No","Yes","Unknown","No","No","Clear","Referral","Lost","Very important","No","Mid","Big","id-1006","Product B","Seller 20",,,
+"98",":Sale","Strategic account","Yes","Current","No","No","Consulting","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1073","Product B","Seller 9",,,
+"99",":Sale","Normal","Yes","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","No","No","Yes","Clear","Unknown","Lost","Very important","No","Mid","Mid","id-1079","Product B","Seller 9",,,
+"100",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1390","Product A","Seller 1",,,
+"101",":Sale","First deal","Yes","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","No","No","Yes","Clear","Media","Lost","Very important","No","Mid","Big","id-1043","Product A","Seller 4",,,
+"102",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1098","Product A","Seller 1",,,
+"103",":Sale","Strategic account","Yes","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Media","Lost","Very important","No","Mid","Mid","id-1052","Product A","Seller 11",,,
+"104",":Sale","Strategic account","Yes","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Referral","Lost","Very important","No","Mid","Mid","id-1245","Product A","Seller 1",,,
+"105",":Sale","Normal","Yes","New","Unknown","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Average important","No","Low","Small","id-1084","Product B","Seller 9",,,
+"106",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1436","Product A","Seller 1",,,
+"107",":Sale","Normal","Yes","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Unimportant","No","Mid","Small","id-1103","Product B","Seller 9",,,
+"108",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1107","Product B","Seller 8",,,
+"109",":Sale","Strategic account","Yes","Current","Yes","No","Project","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1108","Product B","Seller 8",,,
+"110",":Sale","Normal","No","New","No","No","Solution","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1122","Product B","Seller 1",,,
+"111",":Sale","Normal","No","Current","No","Yes","Project","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1123","Product B","Seller 1",,,
+"112",":Sale","Strategic account","No","Current","Yes","Yes","Project","No","Stable","Yes","No","Yes","No","Yes","Yes","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1222","Product A","Seller 3",,,
+"113",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1232","Product B","Seller 9",,,
+"114",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1233","Product B","Seller 9",,,
+"115",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1234","Product B","Seller 9",,,
+"116",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1235","Product B","Seller 9",,,
+"117",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1236","Product B","Seller 9",,,
+"118",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1237","Product B","Seller 9",,,
+"119",":Sale","Normal","No","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Small","id-1241","Product B","Seller 9",,,
+"120",":Sale","Strategic account","Yes","New","Yes","Yes","Project","No","Stable","Yes","No","Yes","No","Yes","Yes","Clear","Joint past","Lost","Very important","No","Mid","Mid","id-1132","Product A","Seller 9",,,
+"121",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1243","Product A","Seller 9",,,
+"122",":Sale","First deal","Yes","Current","Yes","Yes","Project","No","Stable","Info gathering","Yes","Neutral","No","No","Yes","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1305","Product B","Seller 15",,,
+"123",":Sale","Strategic account","No","Current","Yes","Yes","Project","No","Stable","No","No","Yes","Yes","No","No","Low","Joint past","Lost","Very important","No","High","Big","id-1306","Product A","Seller 3",,,
+"124",":Sale","Normal","Yes","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Few questions","Joint past","Lost","Average important","No","Mid","Mid","id-1332","Product B","Seller 9",,,
+"125",":Sale","Strategic account","No","Current","No","Yes","Project","No","Stable","Yes","No","Yes","No","Yes","No","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1333","Product A","Seller 3",,,
+"126",":Sale","Normal","No","Current","No","Yes","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1327","Product A","Seller 9",,,
+"127",":Sale","Normal","Yes","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1348","Product B","Seller 9",,,
+"128",":Sale","First deal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Small","id-1350","Product B","Seller 1",,,
+"129",":Sale","Normal","No","Current","Unknown","Yes","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Unimportant","No","Mid","Mid","id-1354","Product B","Seller 9",,,
+"130",":Sale","Normal","Unknown","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1357","Product B","Seller 9",,,
+"131",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Small","id-1221","Product B","Seller 1",,,
+"132",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1060","Product B","Seller 1",,,
+"133",":Sale","Strategic account","No","Current","Yes","No","Project","No","Growth","Yes","Yes","Yes","No","No","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1064","Product B","Seller 1",,,
+"134",":Sale","Normal","No","New","No","No","Solution","No","Stable","No","No","Neutral","No","No","No","Low","Unknown","Lost","Average important","No","Mid","Mid","id-1066","Product B","Seller 9",,,
+"135",":Sale","Normal","Yes","Current","Unknown","No","Project","No","Growth","Info gathering","No","Neutral","Unknown","Yes","Yes","Few questions","Joint past","Lost","Average important","Yes","Mid","Big","id-1065","Product D","Seller 2",,,
+"136",":Sale","Normal","Unknown","New","Unknown","No","Solution","No","Unknown","No","No","Neutral","No","Yes","Yes","Few questions","Unknown","Lost","Unimportant","No","Mid","Small","id-1077","Product D","Seller 2",,,
+"137",":Sale","Normal","Unknown","New","Unknown","No","Solution","No","Unknown","No","No","Neutral","No","Yes","Yes","Few questions","Unknown","Lost","Unimportant","No","Mid","Small","id-1078","Product D","Seller 2",,,
+"138",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Average important","No","Mid","Mid","id-1083","Product D","Seller 2",,,
+"139",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1088","Product D","Seller 10",,,
+"140",":Sale","First deal","No","New","Yes","Yes","Solution","No","Stable","Yes","No","Yes","Unknown","Yes","Yes","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1115","Product D","Seller 2",,,
+"141",":Sale","Strategic account","No","Current","No","Yes","Project","No","Stable","No","No","Yes","No","No","No","Low","Joint past","Lost","Very important","No","Mid","Big","id-1146","Product C","Seller 1",,,
+"142",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Unimportant","Yes","Mid","Big","id-1152","Product D","Seller 2",,,
+"143",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Media","Lost","Average important","No","High","Small","id-1153","Product D","Seller 2",,,
+"144",":Sale","Normal","No","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Referral","Lost","Average important","No","Mid","Big","id-1154","Product D","Seller 2",,,
+"145",":Sale","Normal","Unknown","New","Unknown","No","Solution","Yes","Unknown","No","No","Neutral","No","No","No","Low","Media","Lost","Average important","No","Mid","Mid","id-1159","Product D","Seller 2",,,
+"146",":Sale","Normal","No","Current","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1160","Product D","Seller 2",,,
+"147",":Sale","First deal","Yes","New","Yes","No","Solution","No","Growth","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Unimportant","No","High","Mid","id-1172","Product D","Seller 2",,,
+"148",":Sale","Normal","No","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Small","id-1174","Product C","Seller 9",,,
+"149",":Sale","Normal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Referral","Lost","Average important","No","Mid","Mid","id-1184","Product D","Seller 2",,,
+"150",":Sale","Normal","No","New","Yes","No","Solution","No","Slow down","Yes","No","Neutral","No","Yes","Yes","Clear","Referral","Lost","Unimportant","No","Mid","Mid","id-1186","Product D","Seller 2",,,
+"151",":Sale","Normal","Unknown","New","Yes","No","Solution","Yes","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Referral","Lost","Average important","No","Mid","Small","id-1188","Product D","Seller 2",,,
+"152",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Unknown","Info gathering","No","Neutral","Unknown","No","Yes","Few questions","Online form","Lost","Unimportant","No","Low","Mid","id-1192","Product D","Seller 2",,,
+"153",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","Yes","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1194","Product D","Seller 2",,,
+"154",":Sale","Strategic account","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1196","Product D","Seller 1",,,
+"155",":Sale","Normal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Media","Lost","Average important","No","Mid","Big","id-1197","Product D","Seller 2",,,
+"156",":Sale","Strategic account","Yes","Current","No","Yes","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1198","Product D","Seller 1",,,
+"157",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1202","Product D","Seller 9",,,
+"158",":Sale","Normal","No","New","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Referral","Lost","Average important","No","Mid","Big","id-1207","Product D","Seller 2",,,
+"159",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1210","Product D","Seller 10",,,
+"160",":Sale","Normal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","Yes","Neutral","Yes","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Mid","id-1218","Product D","Seller 2",,,
+"161",":Sale","Normal","No","New","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1223","Product D","Seller 9",,,
+"162",":Sale","Normal","No","New","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Average important","No","Mid","Mid","id-1225","Product D","Seller 2",,,
+"163",":Sale","Normal","No","New","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Big","id-1228","Product D","Seller 1",,,
+"164",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1387","Product D","Seller 9",,,
+"165",":Sale","Normal","Yes","Past","No","No","Solution","No","Growth","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","High","Mid","id-1388","Product D","Seller 2",,,
+"166",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Small","id-1391","Product D","Seller 1",,,
+"167",":Sale","First deal","Yes","New","Yes","No","Project","No","Growth","Info gathering","No","Neutral","No","Yes","Yes","Few questions","Referral","Lost","Very important","No","Mid","Mid","id-1029","Product C","Seller 1",,,
+"168",":Sale","First deal","Yes","New","Yes","No","Solution","No","Growth","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Unimportant","No","High","Mid","id-1032","Product D","Seller 2",,,
+"169",":Sale","First deal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","Unknown","Yes","No","Few questions","Direct mail","Lost","Unimportant","No","Mid","Mid","id-1033","Product D","Seller 2",,,
+"170",":Sale","First deal","Yes","New","Yes","No","Solution","No","Growth","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Average important","No","High","Big","id-1035","Product D","Seller 2",,,
+"171",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","Unknown","No","Yes","Clear","Direct mail","Lost","Unimportant","No","Mid","Big","id-1036","Product D","Seller 2",,,
+"172",":Sale","Strategic account","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Referral","Lost","Very important","No","Mid","Big","id-1039","Product D","Seller 1",,,
+"173",":Sale","First deal","No","New","Unknown","No","Project","No","Stable","Yes","No","Neutral","No","No","No","Clear","Joint past","Lost","Unimportant","No","Mid","Small","id-1050","Product C","Seller 9",,,
+"174",":Sale","First deal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Online form","Lost","Average important","No","Mid","Mid","id-1054","Product D","Seller 2",,,
+"175",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1407","Product D","Seller 1",,,
+"176",":Sale","Normal","No","Past","No","No","Solution","No","Stable","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Joint past","Lost","Unimportant","Yes","Mid","Mid","id-1409","Product D","Seller 2",,,
+"177",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Unknown","Lost","Average important","No","Mid","Mid","id-1414","Product D","Seller 9",,,
+"178",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Referral","Lost","Average important","No","Mid","Mid","id-1418","Product C","Seller 1",,,
+"179",":Sale","Normal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1419","Product D","Seller 9",,,
+"180",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1428","Product D","Seller 1",,,
+"181",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Average important","No","Low","Mid","id-1444","Product D","Seller 2",,,
+"182",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Growth","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Average important","No","Mid","Mid","id-1445","Product D","Seller 2",,,
+"183",":Sale","Strategic account","Yes","Current","Yes","Yes","Project","No","Stable","No","No","Neutral","No","No","No","Low","Joint past","Lost","Average important","No","Mid","Big","id-1148","Product E","Seller 1",,,
+"184",":Sale","Normal","No","New","Yes","No","Project","No","Stable","No","No","Neutral","No","No","No","Low","Joint past","Lost","Unimportant","No","Mid","Mid","id-1191","Product E","Seller 9",,,
+"185",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1248","Product E","Seller 1",,,
+"186",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1270","Product E","Seller 9",,,
+"187",":Sale","Normal","No","Current","No","No","Maintenance","No","Growth","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1008","Product I","Seller 1",,,
+"188",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1021","Product N","Seller 1",,,
+"189",":Sale","Bad client","No","Current","No","No","Project","No","Growth","Yes","No","No","No","No","No","Clear","Joint past","Won","Unimportant","Yes","High","Mid","id-1046","Product N","Seller 1",,,
+"190",":Sale","Normal","No","Current","No","Yes","Project","No","Growth","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","No","Mid","Small","id-1048","Product I","Seller 1",,,
+"191",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Growth","Yes","No","Neutral","No","No","No","Clear","Joint past","Won","Average important","Yes","High","Big","id-1069","Product P","Seller 13",,,
+"192",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Yes","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1076","Product I","Seller 1",,,
+"193",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1093","Product N","Seller 1",,,
+"194",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1096","Product I","Seller 1",,,
+"195",":Sale","Strategic account","Yes","New","Yes","Yes","Project","No","Stable","Yes","No","Yes","No","Yes","Yes","Clear","Joint past","Won","Very important","No","Mid","Mid","id-1128","Product I","Seller 1",,,
+"196",":Sale","Strategic account","Yes","Current","Yes","Yes","Project","Yes","Growth","Yes","No","Yes","Yes","Yes","Yes","Clear","Joint past","Won","Very important","No","Mid","Big","id-1140","Product I","Seller 1",,,
+"197",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Mid","id-1231","Product A","Seller 1",,,
+"198",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1251","Product A","Seller 1",,,
+"199",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1307","Product A","Seller 1",,,
+"200",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1347","Product A","Seller 1",,,
+"201",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1371","Product A","Seller 1",,,
+"202",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","No","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1133","Product A","Seller 6",,,
+"203",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Mid","id-1134","Product A","Seller 6",,,
+"204",":Sale","Strategic account","Yes","Current","No","No","Maintenance","Yes","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Very important","Yes","High","Big","id-1110","Product A","Seller 3",,,
+"205",":Sale","First deal","Unknown","New","Yes","No","Project","No","Stable","Yes","Yes","Neutral","Unknown","No","Yes","Clear","Referral","Won","Very important","No","Mid","Mid","id-1007","Product B","Seller 1",,,
+"206",":Sale","First deal","Yes","New","Unknown","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Event","Won","Average important","No","High","Small","id-1012","Product B","Seller 1",,,
+"207",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","No","No","Yes","Yes","No","Yes","Low","Joint past","Won","Very important","Yes","Mid","Big","id-1053","Product B","Seller 1",,,
+"208",":Sale","Normal","No","Current","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1106","Product B","Seller 1",,,
+"209",":Sale","Strategic account","No","Current","No","No","Solution","No","Growth","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1121","Product B","Seller 1",,,
+"210",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Yes","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1147","Product B","Seller 1",,,
+"211",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Yes","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1166","Product B","Seller 1",,,
+"212",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1168","Product B","Seller 1",,,
+"213",":Sale","Normal","No","Current","No","Yes","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","No","Mid","Mid","id-1171","Product B","Seller 1",,,
+"214",":Sale","Normal","No","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Won","Average important","No","Mid","Big","id-1214","Product B","Seller 1",,,
+"215",":Sale","Strategic account","No","Current","Yes","Yes","Project","No","Stable","Yes","No","Yes","Yes","No","Yes","Clear","Joint past","Won","Very important","No","Mid","Big","id-1226","Product B","Seller 1",,,
+"216",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Yes","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1227","Product B","Seller 1",,,
+"217",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1343","Product B","Seller 1",,,
+"218",":Sale","Strategic account","Unknown","Current","Yes","No","Project","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1368","Product B","Seller 1",,,
+"219",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1370","Product B","Seller 1",,,
+"220",":Sale","Strategic account","Yes","New","No","No","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Referral","Won","Very important","No","Mid","Big","id-1373","Product B","Seller 1",,,
+"221",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1396","Product B","Seller 1",,,
+"222",":Sale","Strategic account","No","Current","Yes","No","Project","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1405","Product B","Seller 1",,,
+"223",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1421","Product B","Seller 1",,,
+"224",":Sale","First deal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Event","Won","Average important","No","Mid","Big","id-1068","Product C","Seller 1",,,
+"225",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1091","Product C","Seller 14",,,
+"226",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1208","Product C","Seller 1",,,
+"227",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1224","Product C","Seller 1",,,
+"228",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1329","Product C","Seller 1",,,
+"229",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1334","Product C","Seller 1",,,
+"230",":Sale","Strategic account","Yes","Current","No","Yes","Project","No","Growth","Yes","Yes","Yes","Yes","Yes","Yes","Clear","Joint past","Won","Very important","No","Mid","Big","id-1367","Product C","Seller 1",,,
+"231",":Sale","Strategic account","No","Current","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1415","Product C","Seller 1",,,
+"232",":Sale","Strategic account","No","Current","No","Yes","Project","No","Stable","Info gathering","Yes","Yes","No","No","Yes","Few questions","Joint past","Won","Average important","No","Mid","Big","id-1003","Product F","Seller 1",,,
+"233",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Big","id-1022","Product D","Seller 2",,,
+"234",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Yes","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1024","Product F","Seller 1",,,
+"235",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Big","id-1025","Product D","Seller 2",,,
+"236",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Mid","id-1030","Product D","Seller 2",,,
+"237",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Big","id-1031","Product D","Seller 2",,,
+"238",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1114","Product D","Seller 2",,,
+"239",":Sale","Normal","Yes","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1138","Product D","Seller 2",,,
+"240",":Sale","Normal","Yes","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1141","Product D","Seller 2",,,
+"241",":Sale","Strategic account","Yes","Current","No","No","Solution","No","Stable","Yes","No","Yes","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1144","Product D","Seller 1",,,
+"242",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1145","Product D","Seller 2",,,
+"243",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1155","Product D","Seller 2",,,
+"244",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","No","Mid","Mid","id-1163","Product D","Seller 2",,,
+"245",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1164","Product D","Seller 1",,,
+"246",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1259","Product D","Seller 9",,,
+"247",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1260","Product D","Seller 9",,,
+"248",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1261","Product D","Seller 9",,,
+"249",":Sale","Normal","Yes","Current","No","Yes","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","No","Mid","Big","id-1262","Product E","Seller 1",,,
+"250",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1263","Product D","Seller 1",,,
+"251",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1273","Product D","Seller 10",,,
+"252",":Sale","Normal","Yes","New","No","No","Project","Yes","Stable","Yes","Yes","Neutral","Yes","Yes","Yes","Clear","Referral","Won","Average important","No","Mid","Mid","id-1283","Product F","Seller 4",,,
+"253",":Sale","Strategic account","Yes","Current","No","No","Solution","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1308","Product D","Seller 9",,,
+"254",":Sale","Normal","Yes","Current","No","No","Project","No","Unknown","Yes","No","No","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Low","Mid","id-1315","Product D","Seller 2",,,
+"255",":Sale","First deal","No","New","No","No","Project","No","Stable","No","Yes","Neutral","No","No","No","Low","Joint past","Won","Average important","No","Mid","Big","id-1330","Product F","Seller 7",,,
+"256",":Sale","Strategic account","Yes","Current","No","Yes","Project","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Won","Very important","No","Mid","Big","id-1331","Product F","Seller 4",,,
+"257",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1351","Product D","Seller 1",,,
+"258",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1356","Product D","Seller 1",,,
+"259",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1358","Product D","Seller 1",,,
+"260",":Sale","First deal","Yes","New","No","No","Project","No","Stable","Yes","Yes","Yes","No","No","No","Clear","Joint past","Won","Average important","No","Mid","Big","id-1366","Product F","Seller 4",,,
+"261",":Sale","Normal","Unknown","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1378","Product D","Seller 1",,,
+"262",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1382","Product D","Seller 1",,,
+"263",":Sale","Strategic account","Yes","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Referral","Won","Very important","No","Mid","Big","id-1416","Product F","Seller 1",,,
+"264",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Big","id-1424","Product D","Seller 9",,,
+"265",":Sale","Normal","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Mid","id-1432","Product D","Seller 1",,,
+"266",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Very important","Yes","Mid","Big","id-1437","Product D","Seller 1",,,
+"267",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Won","Average important","Yes","Mid","Small","id-1439","Product D","Seller 1",,,
+"268",":Sale","Normal","No","Current","No","Yes","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1041","Product B","Seller 1",,,
+"269",":Sale","First deal","Unknown","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Mid","id-1058","Product B","Seller 1",,,
+"270",":Sale","Strategic account","Yes","Current","Yes","Yes","Project","No","Growth","Yes","No","Yes","No","Yes","No","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1071","Product A","Seller 14",,,
+"271",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1072","Product B","Seller 1",,,
+"272",":Sale","Normal","Yes","New","Yes","No","Project","Yes","Unknown","Yes","No","Neutral","Yes","Yes","Yes","Clear","Referral","Lost","Average important","No","Low","Big","id-1126","Product B","Seller 11",,,
+"273",":Sale","Normal","Yes","Current","Yes","No","Project","Yes","Stable","Yes","No","Yes","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1127","Product A","Seller 11",,,
+"274",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1149","Product B","Seller 9",,,
+"275",":Sale","Normal","Yes","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1150","Product B","Seller 9",,,
+"276",":Sale","Normal","No","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Media","Lost","Average important","No","High","Big","id-1161","Product B","Seller 9",,,
+"277",":Sale","Normal","No","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Media","Lost","Unimportant","No","High","Small","id-1167","Product B","Seller 9",,,
+"278",":Sale","Normal","No","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1169","Product B","Seller 1",,,
+"279",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Unimportant","No","Mid","Mid","id-1175","Product B","Seller 9",,,
+"280",":Sale","Strategic account","Yes","Current","Yes","Yes","Project","Yes","Stable","Yes","No","Yes","No","Yes","Yes","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1185","Product A","Seller 14",,,
+"281",":Sale","Normal","Yes","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Average important","No","Mid","Mid","id-1189","Product B","Seller 9",,,
+"282",":Sale","Normal","Yes","Current","Yes","No","Project","No","Stable","No","No","Neutral","No","No","No","Low","Joint past","Lost","Average important","No","Mid","Small","id-1190","Product B","Seller 9",,,
+"283",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1193","Product B","Seller 1",,,
+"284",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1203","Product B","Seller 9",,,
+"285",":Sale","Normal","No","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Big","id-1215","Product B","Seller 1",,,
+"286",":Sale","Normal","Yes","Current","Yes","No","Project","Yes","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1216","Product A","Seller 11",,,
+"287",":Sale","Normal","Unknown","Past","Yes","No","Project","No","Stable","Poor","No","Neutral","No","Yes","No","Low","Referral","Lost","Average important","No","Mid","Big","id-1092","Product A","Seller 3",,,
+"288",":Sale","Normal","No","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Big","id-1220","Product B","Seller 1",,,
+"289",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Referral","Lost","Average important","No","Mid","Big","id-1311","Product B","Seller 1",,,
+"290",":Sale","Normal","Unknown","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Few questions","Media","Lost","Unimportant","No","Mid","Mid","id-1318","Product B","Seller 9",,,
+"291",":Sale","Normal","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Unimportant","Yes","Mid","Mid","id-1322","Product B","Seller 9",,,
+"292",":Sale","Normal","Yes","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1301","Product A","Seller 9",,,
+"293",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1328","Product B","Seller 1",,,
+"294",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","No","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1359","Product B","Seller 9",,,
+"295",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1341","Product A","Seller 9",,,
+"296",":Sale","Strategic account","Yes","Current","Yes","No","Project","No","Stable","Yes","Yes","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1369","Product B","Seller 1",,,
+"297",":Sale","Normal","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1381","Product A","Seller 9",,,
+"298",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","Yes","Neutral","No","No","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1392","Product B","Seller 1",,,
+"299",":Sale","Normal","Yes","New","Yes","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1397","Product B","Seller 9",,,
+"300",":Sale","Normal","No","Current","Unknown","Yes","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Unimportant","No","Mid","Mid","id-1403","Product A","Seller 9",,,
+"301",":Sale","Normal","Yes","Current","Yes","Yes","Project","No","Stable","Info gathering","No","Neutral","Yes","Yes","Yes","Few questions","Joint past","Lost","Average important","No","Mid","Big","id-1404","Product A","Seller 17",,,
+"302",":Sale","First deal","Yes","New","Yes","No","Project","No","Stable","Info gathering","No","Neutral","No","No","Yes","Low","Joint past","Lost","Average important","No","Mid","Big","id-1413","Product B","Seller 14",,,
+"303",":Sale","Strategic account","Unknown","Current","Yes","Yes","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1417","Product B","Seller 1",,,
+"304",":Sale","Strategic account","Unknown","Current","Yes","Yes","Project","No","Stable","Yes","No","Yes","Unknown","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1422","Product B","Seller 3",,,
+"305",":Sale","Strategic account","No","Current","No","Yes","Project","No","Stable","Yes","No","Yes","No","No","Yes","Few questions","Joint past","Lost","Very important","No","Mid","Big","id-1425","Product A","Seller 3",,,
+"306",":Sale","Strategic account","No","Current","No","Yes","Project","No","Stable","Yes","No","Yes","No","No","Yes","Few questions","Joint past","Lost","Very important","No","Mid","Big","id-1426","Product A","Seller 3",,,
+"307",":Sale","Normal","Yes","New","Unknown","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Mid","id-1427","Product A","Seller 9",,,
+"308",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","No","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1435","Product A","Seller 9",,,
+"309",":Sale","Normal","Yes","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1441","Product A","Seller 9",,,
+"310",":Sale","First deal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","Unknown","No","Yes","Clear","Online form","Lost","Average important","No","Mid","Big","id-1015","Product D","Seller 2",,,
+"311",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Unknown","Yes","No","Neutral","Unknown","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Big","id-1019","Product D","Seller 2",,,
+"312",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Unknown","Lost","Average important","No","Mid","Mid","id-1062","Product D","Seller 2",,,
+"313",":Sale","Strategic account","No","Current","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1116","Product C","Seller 1",,,
+"314",":Sale","Normal","Unknown","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Average important","No","Mid","Small","id-1117","Product D","Seller 2",,,
+"315",":Sale","Normal","No","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Small","id-1118","Product D","Seller 2",,,
+"316",":Sale","Strategic account","No","Current","No","Yes","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Very important","No","Mid","Big","id-1119","Product C","Seller 1",,,
+"317",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Average important","No","Mid","Mid","id-1120","Product D","Seller 2",,,
+"318",":Sale","Strategic account","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Referral","Lost","Average important","No","High","Mid","id-1130","Product D","Seller 2",,,
+"319",":Sale","First deal","Yes","New","Yes","No","Solution","No","Stable","Info gathering","No","Yes","Unknown","Yes","Yes","Few questions","Direct mail","Lost","Average important","No","Mid","Big","id-1136","Product D","Seller 2",,,
+"320",":Sale","Normal","Yes","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1139","Product D","Seller 2",,,
+"321",":Sale","Normal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Average important","No","Mid","Mid","id-1142","Product D","Seller 2",,,
+"322",":Sale","Normal","No","Current","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1242","Product D","Seller 1",,,
+"323",":Sale","Normal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Referral","Lost","Very important","No","Mid","Big","id-1258","Product D","Seller 1",,,
+"324",":Sale","Normal","Yes","Current","Yes","Yes","Solution","Yes","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1280","Product D","Seller 9",,,
+"325",":Sale","First deal","Yes","New","Yes","No","Solution","No","Unknown","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Average important","No","Mid","Mid","id-1291","Product D","Seller 2",,,
+"326",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Unknown","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Unimportant","No","Mid","Mid","id-1293","Product D","Seller 2",,,
+"327",":Sale","Normal","Yes","Current","No","No","Consulting","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1294","Product C","Seller 9",,,
+"328",":Sale","Normal","No","New","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1299","Product C","Seller 9",,,
+"329",":Sale","Normal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","Yes","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Big","id-1310","Product D","Seller 9",,,
+"330",":Sale","Normal","Unknown","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","No","No","Yes","Clear","Media","Lost","Average important","No","Mid","Big","id-1314","Product C","Seller 9",,,
+"331",":Sale","First deal","No","New","Unknown","No","Solution","No","Unknown","Yes","No","Neutral","No","Yes","Yes","Clear","Direct mail","Lost","Unimportant","No","Low","Mid","id-1317","Product D","Seller 2",,,
+"332",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Small","id-1319","Product D","Seller 1",,,
+"333",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Small","id-1320","Product D","Seller 1",,,
+"334",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1323","Product D","Seller 1",,,
+"335",":Sale","First deal","Yes","New","Yes","No","Solution","No","Growth","Yes","No","Neutral","Yes","Yes","Yes","Clear","Direct mail","Lost","Average important","No","High","Mid","id-1324","Product D","Seller 2",,,
+"336",":Sale","Normal","Yes","New","Yes","No","Project","Yes","Stable","Info gathering","Yes","Neutral","No","No","Yes","Few questions","Other","Lost","Average important","No","Mid","Big","id-1335","Product C","Seller 7",,,
+"337",":Sale","First deal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Media","Lost","Very important","No","Mid","Big","id-1336","Product D","Seller 1",,,
+"338",":Sale","Normal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1337","Product D","Seller 9",,,
+"339",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1338","Product D","Seller 9",,,
+"340",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1339","Product D","Seller 9",,,
+"341",":Sale","First deal","Unknown","New","Unknown","No","Solution","No","Unknown","Yes","No","Neutral","Unknown","Yes","Yes","Few questions","Referral","Lost","Unimportant","No","Low","Small","id-1340","Product D","Seller 2",,,
+"342",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1344","Product D","Seller 1",,,
+"343",":Sale","Normal","Yes","New","No","No","Solution","Yes","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1345","Product D","Seller 9",,,
+"344",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Unknown","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Average important","No","Low","Mid","id-1355","Product D","Seller 2",,,
+"345",":Sale","Normal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1364","Product D","Seller 9",,,
+"346",":Sale","Normal","Yes","New","Unknown","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Unknown","Lost","Average important","No","Mid","Mid","id-1365","Product C","Seller 9",,,
+"347",":Sale","Normal","Unknown","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1375","Product D","Seller 1",,,
+"348",":Sale","Normal","Unknown","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1376","Product D","Seller 1",,,
+"349",":Sale","Strategic account","Yes","Current","No","No","Project","No","Stable","Yes","No","Yes","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1377","Product D","Seller 9",,,
+"350",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Small","id-1379","Product C","Seller 9",,,
+"351",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Mid","id-1380","Product D","Seller 9",,,
+"352",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1383","Product D","Seller 1",,,
+"353",":Sale","Normal","No","Current","No","No","Solution","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1384","Product D","Seller 9",,,
+"354",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","No","Yes","Clear","Referral","Lost","Average important","No","Mid","Mid","id-1402","Product C","Seller 9",,,
+"355",":Sale","Normal","No","Current","Yes","No","Solution","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","Yes","Mid","Big","id-1429","Product D","Seller 1",,,
+"356",":Sale","Strategic account","Yes","Current","No","No","Maintenance","No","Stable","Yes","No","Neutral","Yes","Yes","Yes","Clear","Joint past","Lost","Very important","Yes","Mid","Big","id-1434","Product D","Seller 1",,,
+"357",":Sale","First deal","Yes","New","Yes","No","Solution","No","Stable","Yes","No","Yes","Unknown","Yes","Yes","Clear","Direct mail","Lost","Average important","No","Mid","Big","id-1438","Product D","Seller 2",,,
+"358",":Sale","Normal","Unknown","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1440","Product C","Seller 9",,,
+"359",":Sale","Strategic account","Unknown","Current","Yes","Yes","Solution","No","Stable","Info gathering","No","Neutral","Unknown","Yes","Yes","Few questions","Referral","Lost","Very important","No","Mid","Mid","id-1443","Product D","Seller 2",,,
+"360",":Sale","First deal","Yes","New","Yes","No","Solution","Yes","Stable","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Average important","No","Mid","Big","id-1446","Product D","Seller 2",,,
+"361",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Growth","Yes","No","Neutral","Unknown","Yes","Yes","Clear","Direct mail","Lost","Average important","No","Mid","Mid","id-1447","Product D","Seller 2",,,
+"362",":Sale","First deal","Unknown","New","Yes","No","Solution","No","Stable","Yes","No","Yes","Unknown","Yes","Yes","Clear","Referral","Lost","Average important","No","Low","Mid","id-1448","Product D","Seller 1",,,
+"363",":Sale","First deal","No","New","No","No","Project","No","Growth","Yes","No","Neutral","No","Yes","Yes","Clear","Referral","Lost","Average important","No","Mid","Small","id-1080","Product E","Seller 1",,,
+"364",":Sale","Normal","No","New","No","No","Project","No","Stable","No","No","Neutral","No","Yes","Yes","Low","Referral","Lost","Average important","No","Mid","Small","id-1240","Product E","Seller 9",,,
+"365",":Sale","Normal","No","New","No","No","Project","No","Stable","Yes","No","Neutral","No","Yes","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1303","Product E","Seller 9",,,
+"366",":Sale","Normal","Yes","New","Yes","No","Project","Yes","Stable","Yes","No","Neutral","No","No","Yes","Clear","Joint past","Lost","Average important","No","Mid","Mid","id-1401","Product E","Seller 9",,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","15","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","16","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","17","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","18","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","19","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","20","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","197","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","198","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","199","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","200","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","9","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","201","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","60","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","61","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","3","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","2","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","1","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","15","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","16","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","17","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","18","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","19","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"2","20","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"2","197","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"2","198","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"2","199","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"2","200","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","198","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","199","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","200","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","9","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","201","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","60","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","61","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","2","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","4","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","202","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","203","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"4","204","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"4","6","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"4","5","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"5","7","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"5","8","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"5","6","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"6","11","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"5","12","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"7","14","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"8","13","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"9","10","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"10","13","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"10","11","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"11","12","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"12","14","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"12","13","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"13","10","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"14","13","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"15","205","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"16","206","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"17","23","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"18","24","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"19","25","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"20","207","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","21","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","22","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"21","26","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"22","27","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"23","28","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"24","29","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"25","30","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"22","208","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"26","209","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"27","210","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"28","31","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"29","211","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"30","212","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"4","213","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"5","32","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"31","33","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"31","34","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"31","35","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"31","36","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"32","214","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"33","215","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"34","216","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"35","37","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"36","38","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"34","39","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"35","40","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"36","41","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"37","42","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"38","217","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"39","43","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"40","44","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"41","45","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"42","218","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"43","219","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"44","220","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"45","221","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"5","222","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"7","223","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"8","41","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"28","46","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"29","47","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"30","48","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"4","49","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"5","50","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"31","94","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"31","95","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"31","224","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"46","51","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"47","52","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"48","53","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"49","225","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"50","56","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"51","226","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"52","227","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"53","54","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","55","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","228","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"54","229","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"55","230","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"56","231","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"54","55","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","232","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","57","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","58","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","59","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","233","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"57","234","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"58","235","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"59","236","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"60","237","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"61","68","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","69","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"2","70","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","62","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"15","63","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"16","64","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"62","65","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"63","66","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"64","67","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"65","71","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"66","72","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"67","73","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"68","238","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"69","239","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"70","240","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"62","241","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"63","242","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"64","243","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"65","244","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"66","245","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"67","74","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"71","75","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"72","76","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"73","77","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"65","78","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"66","79","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"67","246","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"74","247","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"75","248","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"76","249","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"77","250","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"78","251","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"79","252","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"77","80","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"78","81","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"79","82","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"77","83","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"78","253","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"79","254","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"80","255","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"81","256","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"82","257","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"83","258","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"80","259","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"81","260","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"82","261","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"83","262","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"3","84","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","85","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","88","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","86","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"4","87","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"4","89","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"84","90","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"85","91","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"86","92","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"87","93","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"88","263","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"86","264","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"87","265","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"89","266","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"90","267","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"91","263","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"92","264","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"93","265","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"94","266","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"95","267","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","97","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","268","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","101","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","102","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","103","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","104","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","269","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","132","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","133","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","134","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","270","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","271","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","98","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","99","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","100","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","105","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","106","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","107","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"98","108","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"99","109","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"100","110","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"98","111","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"99","272","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"100","273","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"101","274","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"102","275","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"103","276","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"104","277","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"101","278","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"102","279","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"103","280","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"104","281","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"101","282","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"102","283","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"103","284","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"104","285","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"100","286","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"105","287","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"106","288","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"107","131","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"108","112","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"109","113","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"110","114","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"111","115","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"100","116","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"105","117","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"106","118","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"107","119","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"108","120","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"109","121","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"110","122","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"111","123","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"112","289","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"113","290","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"114","291","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"115","292","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"116","293","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"117","124","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"118","125","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"119","126","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"120","127","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"121","128","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"122","129","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"123","130","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"124","294","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"125","295","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"126","296","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"127","297","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"128","298","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"129","299","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"130","300","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"124","301","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"125","302","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"126","303","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"127","304","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"128","305","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"129","306","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"130","307","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","308","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"131","309","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"131","308","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"132","310","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"133","311","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"134","167","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"132","168","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"133","169","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"134","170","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"132","171","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"133","172","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"134","173","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"132","174","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"133","312","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"134","135","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"132","136","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"133","137","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"134","138","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"132","139","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"133","140","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"135","313","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"136","314","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"137","315","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"138","316","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"139","317","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"140","318","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"135","319","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"136","320","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"137","321","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"138","141","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"139","142","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"140","143","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"135","144","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"136","145","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"137","146","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"138","147","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"139","148","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"140","149","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"141","150","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"142","151","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"143","152","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"144","153","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"145","154","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"146","155","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"147","156","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"141","157","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"142","158","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"143","159","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"144","160","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"145","161","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"146","162","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"147","163","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"148","322","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"149","323","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"150","324","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"151","325","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"152","326","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"153","327","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"154","328","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"155","329","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"156","330","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"157","331","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"158","332","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"159","333","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"160","334","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"161","335","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"162","336","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"163","337","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"148","338","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"149","339","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"150","340","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"151","341","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"152","342","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"153","343","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"154","344","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"155","345","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"156","346","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"157","347","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"158","348","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"159","349","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"160","350","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"161","351","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"162","352","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"163","353","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","164","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","165","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"96","166","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","167","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","168","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"97","169","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"98","170","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"99","171","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"100","172","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"98","173","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"99","174","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"164","354","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"165","175","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"166","176","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"167","177","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"168","178","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"169","179","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"170","180","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"171","355","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"172","356","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"173","357","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"174","358","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"164","359","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"165","181","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"166","182","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"167","360","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"168","361","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"169","362","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"170","359","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"171","181","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"172","182","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"173","360","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"174","361","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"175","356","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"176","357","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"177","358","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"178","359","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"179","181","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"180","182","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"181","363","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"182","183","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"181","184","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"182","364","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"183","185","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"184","186","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"185","365","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"186","366","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","187","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","188","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"0","189","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","190","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"1","191","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"187","192","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"188","193","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"189","194","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"190","195","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"191","196","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"192","185","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"193","186","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"194","365","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"195","366","IS_CONNECTED"
+,,,,,,,,,,,,,,,,,,,,,,,,,,"196","185","IS_CONNECTED"
